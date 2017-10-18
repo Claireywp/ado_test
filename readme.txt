@@ -1,0 +1,1 @@
+This is a ado database connection testing.
